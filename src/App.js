@@ -1,11 +1,11 @@
 import './App.css';
 
-import Counter from './eseEffect_ex/solutions/Counter';
+import Pokemon from './eseEffect_ex/solutions/Pokemon';
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <Pokemon />
     </div>
   );
 }
