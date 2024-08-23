@@ -1,11 +1,11 @@
 import './App.css';
 
-import Form from './useRef_ex/solutions/Form';
+import ControlledForm from './useReducer_ex/solutions/ControlledForm';
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <ControlledForm />
     </div>
   );
 }
