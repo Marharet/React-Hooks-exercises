@@ -1,11 +1,10 @@
 import './App.css';
-
-import ControlledForm from './useReducer_ex/solutions/ControlledForm';
+import Parent3 from './useContext_ex/solutions/Parent3';
 
 function App() {
   return (
     <div className="App">
-      <ControlledForm />
+      <Parent3 />
     </div>
   );
 }
